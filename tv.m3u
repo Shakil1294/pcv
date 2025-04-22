@@ -1,7 +1,4 @@
 #EXTM3U
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#IP TV",Padma Cable Vision (BDIX RTMP) 
-rtmp://padmaonline.duckdns.org/static/pcv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#IP TV",Padma Cable Vision (BDIX HLS)
 https://padmaonline.duckdns.org:8088/pcv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#IP TV",Padma Cable Vision (India Server)
@@ -12,12 +9,6 @@ https://padmaonline.duckdns.org:8088/sdcv/index.m3u8
 https://cloudcdn.in/livetv/DesiTashan/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/sami_tv.jpg" group-title="#IP TV",Sami TV
 https://padmaonline.duckdns.org:8088/sami_tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/ltv.png" group-title="#IP TV",LTV (BDIX)
-#http://padmaonline.duckdns.org:1935/LTV/ltv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/bvm_news.jpg" group-title="#IP TV",BVM NEWS
-http://103.50.7.46:1935/bvm/11/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/sgcn_music.png" group-title="#IP TV",SGCN MUSIC
-https://vvsolutions-server12.in/sgcnmusic_3/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/800px-Bangladesh_Television_Logo.svg.png", BTV HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvnational1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/BTV_News_Logo.png", BTV News
@@ -342,7 +333,10 @@ https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-audio_208482_und=208000-video=2137600.m3u8
 http://xtv.ooo:8080/213112/213112/245933
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/bvm_news.jpg" group-title="#IP TV",BVM NEWS
+http://103.50.7.46:1935/bvm/11/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/sgcn_music.png" group-title="#IP TV",SGCN MUSIC
+https://vvsolutions-server12.in/sgcnmusic_3/video.m3u8
 
 
 #Documentary
