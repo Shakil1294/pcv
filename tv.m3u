@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#IP TV",Padma Cable Vision (BDIX HLS)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#IP TV",Padma Cable Vision (BDIX)
 https://padmaonline.duckdns.org:8088/pcv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#IP TV",Padma Cable Vision (India Server)
 https://vstechs.in/PADMA_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/sdcv.png" group-title="#IP TV",Shariatpur Digital Cable Vision
 https://padmaonline.duckdns.org:8088/sdcv/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/desi_tahshan.jpg" group-title="#IP TV",DESI TASHAN
-https://cloudcdn.in/livetv/DesiTashan/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/sami_tv.jpg" group-title="#IP TV",Sami TV
 https://padmaonline.duckdns.org:8088/sami_tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/desi_tahshan.jpg" group-title="#IP TV",DESI TASHAN
+https://cloudcdn.in/livetv/DesiTashan/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/800px-Bangladesh_Television_Logo.svg.png", BTV HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvnational1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/BTV_News_Logo.png", BTV News
