@@ -157,7 +157,7 @@ https://dns.bajimath.com/candy/vstream.php?id=fd6de8bd1666&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png",HUM TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/hum.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvepg.eu/img/united_kingdom/logo/hum_europe.png",HUM TV Europe
-https://dns.bajimath.com/candy/vstream.php?id=7c21a8ade135&e=.m3u8
+https://padmaonline.duckdns.org:8088/HumTV_Europe/index.m3u8
 
 #Star
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",Star Jalsha
