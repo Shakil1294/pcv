@@ -128,22 +128,26 @@ https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3
 
 
 #Sports
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="SPORTS", Sony Ten 1 HD
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="SPORTS", Sony Sports 1 HD
 https://dish.slivcdn.com/hls/live/2011747-b/TEN1HD/master.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="SPORTS", Sony Ten 2 HD
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="SPORTS", Sony Sports 2 HD
 https://dish.slivcdn.com/hls/live/2020434-b/TEN2HD/master.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="SPORTS", Sony Ten 3 HD
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="SPORTS", Sony Sports 3 HD
 https://dish.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="SPORTS", Sony Ten 5
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="SPORTS", Sony Sports 5
 https://dish.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="SPORTS",Star Sports 1 HD
 http://xtv.ooo:8080/danyear12/am809100/167575
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png" group-title="SPORTS",Star Sports Select 1 HD
+http://tv.bdiptv.store/live/restream/restreamkak/88.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/Star-sports-select-2-hd.png" group-title="SPORTS",Star Sports Select 2 HD
+http://tv.bdiptv.store/live/restream/restreamkak/15246.m3u8
 
 #PK
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png",HUM TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/hum.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvepg.eu/img/united_kingdom/logo/hum_europe.png",HUM TV Europe
-https://padmaonline.duckdns.org:8088/HumTV_Europe/index.m3u8
+https://newsprotalhub.xyz/candy/vstream.php?id=7c21a8ade135&e=.m3u8
 
 #STAR
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="KOLKATA",Star Jalsha
@@ -159,17 +163,19 @@ http://xtv.ooo:8080/live/sami12/827272/245900.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/StarPlus_Logo.png" group-title="HINDI",Star Plus HD
 http://38.96.178.201/live/StarPlus/index.m3u8
 #EXTINF:-1 tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/star--bharat-hd.jpg" group-title="HINDI",Star Bharat HD
-
+http://tv.bdiptv.store/live/restream/restreamkak/234.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_logo.png" group-title="HINDI",Star Gold HD
-#http://xtv.ooo:8080/danyear12/am809100/66177
+http://xtv.ooo:8080/danyear12/am809100/66177
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6R51ss0ajZObprdwH7HoYiDAeswjwtzJ04w&s" group-title="HINDI",Star Gold 2
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold2_hd.png" group-title="HINDI",Star Gold 2 HD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_select_hd.png" group-title="HINDI",Star Gold Select HD
 http://xtv.ooo:8080/danyear12/am809100/66176
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_movies_hd.png" group-title="EN",Star Movies HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_movies_hd.png" group-title="ENGLISH",Star Movies HD
 http://xtv.ooo:8080/danyear12/am809100/66213
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_movies_hd.png" group-title="ENGLISH",Star Movies HD
+http://tv.bdiptv.store/live/restream/restreamkak/95.m3u8
 
 #Colors
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPswrCmzOk6cjMYZyAc4b9UIZEp5FXqXeulQ&s" group-title="KOLKATA",Colors Bangla HD
@@ -210,6 +216,9 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
 #EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypix-live/pix_images/logo/10_7793.jpg" group-title="HINDI", Sony Yay
 https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.sonybbcearth.com/images/logo.png" group-title="HINDI", Sony BBC Earth
+https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
+
 
 #Zee Channel
 #EXTINF:-1 tvg-id="0-9-zeetv" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png",Zee TV
