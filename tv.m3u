@@ -1,12 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#IP TV",Padma Cable Vision (BDIX)
 https://padmaonline.duckdns.org:8088/pcv/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#IP TV",Padma Cable Vision (India Server)
-https://vstechs.in/PADMA_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/sdcv.png" group-title="#IP TV",Shariatpur Digital Cable Vision
 https://padmaonline.duckdns.org:8088/sdcv/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/SamiTV.jpg" group-title="#IP TV",Sami TV
-https://padmaonline.duckdns.org:8088/sami_tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/ltv.png" group-title="#IP TV",LTV
 https://padmaonline.duckdns.org:8088/ltv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/ahil_tv_hd.png" group-title="#IP TV",Ahil TV HD
