@@ -5,5 +5,3 @@ udp://@20.10.20.10:1234
 http://10.20.10.20:8888/pcv/mpegts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#PCV",PCV (HLS)
 http://10.20.10.20:8888/pcv/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#PCV",PCV (HLS)
-udp://@192.168.0.107:1234
