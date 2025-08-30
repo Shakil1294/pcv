@@ -1,1 +1,0 @@
-wget "https://iptvcursos.com/xui/XUI_1.5.13.zip" -0 /tmp/XUI_1.5.13.zip; cd /tmp; apt update apt install zip unzip -y; unzip XUI_1.5.13.zip ; ./install
