@@ -5,10 +5,10 @@ https://padmaonline.duckdns.org:8088/pcv/index.m3u8
 https://padmaonline.duckdns.org:8088/pcv/mpegts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/sdcv.png" group-title="#IP TV",Shariatpur Digital Cable Vision
 https://padmaonline.duckdns.org:8088/sdcv/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/SamiTvBD.jpg" group-title="#IP TV",Sami TV HD
-https://padmaonline.duckdns.org:8088/sami_tvbd/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/ahil_tv_hd.jpg" group-title="#IP TV",Ahil TV HD
-https://padmaonline.duckdns.org:8088/restream3/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/channel12.jpg" group-title="#IP TV",Channel 12
+https://smart.bengaldigital.live/channel12/index.m3u8
+#EXTINF:-1 tvg-logo="#https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/ahil_tv_hd.jpg" #group-title="#IP TV",#Ahil TV HD
+#https://padmaonline.duckdns.org:8088/restream3/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/desi_tahshan.jpg" group-title="#IP TV",DESI TASHAN
 https://cloudcdn.in/livetv/DesiTashan/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/btv.png" group-title="BANGLADESH", BTV HD
