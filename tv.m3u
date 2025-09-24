@@ -5,10 +5,6 @@ https://padmaonline.duckdns.org:8088/pcv/index.m3u8
 https://padmaonline.duckdns.org:8088/pcv/mpegts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/sdcv.png" group-title="#IP TV",Shariatpur Digital Cable Vision
 https://padmaonline.duckdns.org:8088/sdcv/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/channel12.jpg" group-title="#IP TV",Channel 12
-https://smart.bengaldigital.live/channel12/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/desi_tahshan.jpg" group-title="#IP TV",DESI TASHAN
-https://cloudcdn.in/livetv/DesiTashan/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/btv.png" group-title="BANGLADESH", BTV HD
 http://103.230.105.252:1935/live/btv/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/btv_news.png" group-title="BANGLADESH", BTV News
@@ -142,6 +138,9 @@ http://xtv.ooo:8080/danyear12/am809100/167575
 http://tv.bdiptv.store/live/restream/restreamkak/88.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/Star-sports-select-2-hd.png" group-title="SPORTS",Star Sports Select 2 HD
 http://tv.bdiptv.store/live/restream/restreamkak/15246.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/desi_tahshan.jpg" group-title="#IP TV",DESI TASHAN
+https://cloudcdn.in/livetv/DesiTashan/index.m3u8
 
 #PK
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png",HUM TV
