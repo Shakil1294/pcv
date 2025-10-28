@@ -5,7 +5,7 @@ https://padmaonline.duckdns.org:8088/pcv/index.m3u8
 https://padmaonline.duckdns.org:8088/pcv/mpegts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/sdcv.png" group-title="#IP TV",Shariatpur Digital Cable Vision
 https://padmaonline.duckdns.org:8088/sdcv/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/SamiTvBD.jpg" group-title="#IP TV",SamiTV (BDIX)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/SamiTV.jpg" group-title="#IP TV",SamiTV (BDIX)
 https://padmaonline.duckdns.org:8088/SamiTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/btv.png" group-title="BANGLADESH", BTV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8
