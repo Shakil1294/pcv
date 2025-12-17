@@ -145,6 +145,12 @@ http://tv.bdiptv.store/live/restream/restreamkak/15246.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/desi_tahshan.jpg" group-title="#IP TV",DESI TASHAN
 https://cloudcdn.in/livetv/DesiTashan/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/VaktiSagor.jpg" group-title="#IP TV",Bhakti Sagor
+http://ranacabletv.fun/hls/live2/bhaktisagar.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/RanaCableTV.jpg" group-title="#IP TV",Rana Cable TV
+http://ranacabletv.fun/hls/live/ranacabletv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/StarMusic2.jpg" group-title="#IP TV",Star Music 2
+http://ranacabletv.fun/hls/live1/starmusic2.m3u8
 
 #PK
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png",HUM TV
