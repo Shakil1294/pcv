@@ -1,3 +1,11 @@
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/SamiTV.jpg" group-title="#IP TV",SamiTV (BDIX)
+https://padmaonline.duckdns.org:8088/SamiTV/index.m3u8
+
+
+
+
+
+
 #Extra
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Nazara_TV_logo.png", NAZARA
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
