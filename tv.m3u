@@ -5,6 +5,8 @@ https://padmaonline.duckdns.org:8088/pcv/index.m3u8
 rtmp://padmaonline.duckdns.org:1294/static/pcv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/sdcv.png" group-title="#IP TV",Shariatpur Digital Cable Vision
 https://padmaonline.duckdns.org:8088/sdcv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/somoy_tv.png" group-title="BANGLADESH",Somoy TV (RTMP)
+rtmp://10.20.10.20:1294/static/SOMOY-TV-FHD-BDiX
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/T_Sports.png" group-title="BANGLADESH",T Sports HD
 https://padmaonline.duckdns.org:8088/FOX/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/btv.png" group-title="BANGLADESH", BTV HD
